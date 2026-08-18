@@ -1,0 +1,61 @@
+Branch_ID,Branch_Name,City,State,Postal_Code,Branch_Status
+BR001,Delhi 1,Delhi,Delhi,110000,Active
+BR002,Mumbai 1,Mumbai,Maharashtra,110001,Active
+BR003,Bengaluru 1,Bengaluru,Karnataka,110002,Active
+BR004,Hyderabad 1,Hyderabad,Telangana,110003,Active
+BR005,Chennai 1,Chennai,Tamil Nadu,110004,Active
+BR006,Kolkata 1,Kolkata,West Bengal,110005,Active
+BR007,Pune 1,Pune,Maharashtra,110006,Active
+BR008,Ahmedabad 1,Ahmedabad,Gujarat,110007,Active
+BR009,Jaipur 1,Jaipur,Rajasthan,110008,Active
+BR010,Lucknow 1,Lucknow,Uttar Pradesh,110009,Active
+BR011,Kanpur 1,Kanpur,Uttar Pradesh,110010,Active
+BR012,Agra 1,Agra,Uttar Pradesh,110011,Active
+BR013,Noida 1,Noida,Uttar Pradesh,110012,Active
+BR014,Gurugram 1,Gurugram,Haryana,110013,Active
+BR015,Chandigarh 1,Chandigarh,Chandigarh,110014,Active
+BR016,Indore 1,Indore,Madhya Pradesh,110015,Active
+BR017,Bhopal 1,Bhopal,Madhya Pradesh,110016,Active
+BR018,Patna 1,Patna,Bihar,110017,Active
+BR019,Ranchi 1,Ranchi,Jharkhand,110018,Active
+BR020,Bhubaneswar 1,Bhubaneswar,Odisha,110019,Active
+BR021,Guwahati 1,Guwahati,Assam,110020,Active
+BR022,Kochi 1,Kochi,Kerala,110021,Active
+BR023,Thiruvananthapuram 1,Thiruvananthapuram,Kerala,110022,Active
+BR024,Coimbatore 1,Coimbatore,Tamil Nadu,110023,Active
+BR025,Nagpur 1,Nagpur,Maharashtra,110024,Active
+BR026,Surat 1,Surat,Gujarat,110025,Active
+BR027,Vadodara 1,Vadodara,Gujarat,110026,Active
+BR028,Nashik 1,Nashik,Maharashtra,110027,Active
+BR029,Visakhapatnam 1,Visakhapatnam,Andhra Pradesh,110028,Active
+BR030,Vijayawada 1,Vijayawada,Andhra Pradesh,110029,Active
+BR031,Delhi 2,Delhi,Delhi,110030,Active
+BR032,Mumbai 2,Mumbai,Maharashtra,110031,Active
+BR033,Bengaluru 2,Bengaluru,Karnataka,110032,Active
+BR034,Hyderabad 2,Hyderabad,Telangana,110033,Active
+BR035,Chennai 2,Chennai,Tamil Nadu,110034,Active
+BR036,Kolkata 2,Kolkata,West Bengal,110035,Active
+BR037,Pune 2,Pune,Maharashtra,110036,Active
+BR038,Ahmedabad 2,Ahmedabad,Gujarat,110037,Active
+BR039,Jaipur 2,Jaipur,Rajasthan,110038,Active
+BR040,Lucknow 2,Lucknow,Uttar Pradesh,110039,Active
+BR041,Kanpur 2,Kanpur,Uttar Pradesh,110040,Active
+BR042,Agra 2,Agra,Uttar Pradesh,110041,Active
+BR043,Noida 2,Noida,Uttar Pradesh,110042,Active
+BR044,Gurugram 2,Gurugram,Haryana,110043,Active
+BR045,Chandigarh 2,Chandigarh,Chandigarh,110044,Active
+BR046,Indore 2,Indore,Madhya Pradesh,110045,Active
+BR047,Bhopal 2,Bhopal,Madhya Pradesh,110046,Active
+BR048,Patna 2,Patna,Bihar,110047,Active
+BR049,Ranchi 2,Ranchi,Jharkhand,110048,Active
+BR050,Bhubaneswar 2,Bhubaneswar,Odisha,110049,Active
+BR051,Guwahati 2,Guwahati,Assam,110050,Active
+BR052,Kochi 2,Kochi,Kerala,110051,Active
+BR053,Thiruvananthapuram 2,Thiruvananthapuram,Kerala,110052,Active
+BR054,Coimbatore 2,Coimbatore,Tamil Nadu,110053,Active
+BR055,Nagpur 2,Nagpur,Maharashtra,110054,Active
+BR056,Surat 2,Surat,Gujarat,110055,Active
+BR057,Vadodara 2,Vadodara,Gujarat,110056,Active
+BR058,Nashik 2,Nashik,Maharashtra,110057,Active
+BR059,Visakhapatnam 2,Visakhapatnam,Andhra Pradesh,110058,Active
+BR060,Vijayawada 2,Vijayawada,Andhra Pradesh,110059,Active
